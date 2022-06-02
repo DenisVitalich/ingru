@@ -1,0 +1,27 @@
+.description {
+  height: 150px;
+}
+.form {
+  width: 50%;
+  padding: 15px;
+  margin-bottom: 30px;
+}
+.card {
+  width: 50%;
+  margin-bottom: 20px;
+
+  .header {
+    text-align: left;
+  }
+
+  .text {
+    white-space: pre-wrap;
+    text-align: left;
+  }
+}
+.small-button {
+  max-width: 50px;
+}
+.large-button {
+  max-width: 150px;
+}
